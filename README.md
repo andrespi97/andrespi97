@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**andrespi97/andrespi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Andrés Piñeiro, a multi-platform application development student.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Previously worked as an administrative professional focused on purchasing.
+- 🌱 Currently learning multi-platform application development.
+
+## Technologies and Tools
+
+Here are some of the technologies and tools I work with:
+
+- Java
+- HTML
+- PHP
+- CSS
+
+## Contact
+
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-pi%C3%B1eiro-lage-ba970b202/)
+
+Feel free to connect with me!
