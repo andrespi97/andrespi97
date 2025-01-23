@@ -19,6 +19,7 @@ Here are some of the technologies and tools I work with:
 ## Contact
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-pi%C3%B1eiro-lage-ba970b202/)
+  
 Feel free to connect with me!
 
 
