@@ -21,6 +21,6 @@ Here are some of the technologies and tools I work with:
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-pi%C3%B1eiro-lage-ba970b202/)
 
 Feel free to connect with me!
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4fb1785-36b9-42a9-9e44-f14919df8277" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![github-foundations](https://github.com/user-attachments/assets/8f9ea829-7e81-490c-acdf-4d4f095e397b)
 
 [![An image of @andrespi97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrespi97)](https://holopin.io/@andrespi97)
