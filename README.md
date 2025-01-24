@@ -11,10 +11,8 @@ Welcome to my GitHub profile! I'm Andrés Piñeiro, a multi-platform application
 
 Here are some of the technologies and tools I work with:
 
-- Java
-- HTML
-- PHP
-- CSS
+- React
+- mySQL
 
 ## Contact
 
