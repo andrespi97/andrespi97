@@ -22,6 +22,6 @@ Feel free to connect with me!
 
 
 
-![github-foundations](https://github.com/user-attachments/assets/8f9ea829-7e81-490c-acdf-4d4f095e397b)
+![github-foundations](https://github.com/user-attachments/assets/8f9ea829-7e81-490c-acdf-4d4f095e397b) [![An image of @andrespi97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrespi97)](https://holopin.io/@andrespi97)
 
-[![An image of @andrespi97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrespi97)](https://holopin.io/@andrespi97)
+
